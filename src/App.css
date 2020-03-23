@@ -4,3 +4,6 @@
 .list-group-item:hover .fa-trash {
     display: block;
 }
+.list-group-item:hover .fa-trash:hover {
+    color: red;
+}
