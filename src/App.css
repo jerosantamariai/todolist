@@ -1,0 +1,6 @@
+.list-group-item .fa-trash {
+    display: none;
+}
+.list-group-item:hover .fa-trash {
+    display: block;
+}
