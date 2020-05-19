@@ -28,4 +28,5 @@ ToDoForm.propTypes = {
     handleChange: PropTypes.func.isRequired,
     handleKeyDown: PropTypes.func.isRequired
 }
+
 export default ToDoForm;
